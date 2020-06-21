@@ -3,7 +3,7 @@
 
 ## 학력
 + 인제대학교 통계학과 학사; 평균학점 4.29/4.5; 2012.03~2018.02
-+ 인제대학교 통계학과 석사; 평균학점 4.44/4.5; 2018.03~2019.08 (학석사 연계과정)
++ 인제대학교 통계학과 석사; 평균학점 4.44/4.5; 2018.03~2019.08; 학석사 연계과정
   + 졸업논문 : 심층생성망 기반 준지도학습의 성능 향상에 관한 연구 [(RISS)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2d92862e4ed1bb73ffe0bdc3ef48d419).
 
 
@@ -21,14 +21,14 @@
   + Mcrosoft Azure 서비스
 
 ## 프로젝트
-+ 19년도 현대자동차 남양연구소 내구성능개발실 AI과제 (with 고려대 DMQA)
++ 19년도 현대자동차 남양연구소 내구성능개발실 AI과제; with 고려대 DMQA; python
   + 기계학습을 이용한 내구용 타이어 모델과 입력 하중 상관성 분석 [(설명)](http://dmqm.korea.ac.kr/research/projects/49).
   + 샤시 부품 센서를 통한 6분력 하중 예측 [(설명)](http://dmqm.korea.ac.kr/research/projects/50).
   + 딥러닝을 활용한 EGR V/V 경고등 고장 패턴 탐색 [(설명)](http://dmqm.korea.ac.kr/research/projects/44).
   + AI활용 로드시뮬레이터 내구모니터링 중 내구문제 자동검출 [(설명)](http://dmqm.korea.ac.kr/research/projects/45).
 
 ## 자격증
-+ (2017.12) ADsP (데이터분석준전문가)
++ (2017.12) ADsP; 데이터분석준전문가
 + (2016.11) 사회조사분석사 2급
 + (2015.08) SAS Base Programming for SAS 9
 + (2016.08) SAS Advanced Programming for SAS 9
