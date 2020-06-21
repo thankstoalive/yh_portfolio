@@ -4,7 +4,8 @@
 ## 학력
 + 인제대학교 통계학과 학사; 평균학점 4.29/4.5; 2012.03~2018.02
 + 인제대학교 통계학과 석사; 평균학점 4.44/4.5; 2018.03~2019.08 (학석사 연계과정)
-  + 졸업논문 : 심층생성망 기반 준지도학습의 성능 향상에 관한 연구
+  + 졸업논문 : 심층생성망 기반 준지도학습의 성능 향상에 관한 연구 [(RISS)](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=2d92862e4ed1bb73ffe0bdc3ef48d419).
+
 
 ## 기술 스택
 + Python; numpy, pandas, sklearn, tensorflow, keras, pytorch
@@ -20,7 +21,7 @@
   + Mcrosoft Azure 서비스
 
 ## 프로젝트
-+ 현대자동차 남양연구소 내구성능개발실 AI과제 (with 고려대 DMQA)
++ 19년도 현대자동차 남양연구소 내구성능개발실 AI과제 (with 고려대 DMQA)
   + 기계학습을 이용한 내구용 타이어 모델과 입력 하중 상관성 분석 [(설명)](http://dmqm.korea.ac.kr/research/projects/49).
   + 샤시 부품 센서를 통한 6분력 하중 예측 [(설명)](http://dmqm.korea.ac.kr/research/projects/50).
   + 딥러닝을 활용한 EGR V/V 경고등 고장 패턴 탐색 [(설명)](http://dmqm.korea.ac.kr/research/projects/44).
