@@ -16,7 +16,7 @@
 
 ## 경력
 
-### (2020.09~) 에이치이엠파마; BI센터; AI파트; 파트장/선임연구원
+### (2020.09~) 에이치이엠파마; PMAS연구소; BI센터; AI파트; 파트장/선임연구원
 : PMAS
 
 #### 암웨이 마이랩 - 솔루션 배정 알고리즘 개발
@@ -33,25 +33,17 @@ AutoHEML = AutoML + HEM
 ### (2019.08~2020.06; 11 month) 비알프레임; 분석컨설팅팀; 대리
 
 #### 1. 19년도 현대자동차 남양연구소 내구성능개발실 AI과제 (with 고려대 DMQA)
-: 머신러닝/딥러닝 모델을 접목하는 과제를 경험하였습니다.
 
 + 기계학습을 이용한 내구용 타이어 모델과 입력 하중 상관성 분석 [(설명)](http://dmqm.korea.ac.kr/research/projects/49)   
- :  내구용 타이어 설계후보값을 도출하는 기계학습 프로세스 구축
 + 샤시 부품 센서를 통한 6분력 하중 예측 [(설명)](http://dmqm.korea.ac.kr/research/projects/50)  
- :  6분력 하중을 예측하는 CNN모델 구축
 + 딥러닝을 활용한 EGR V/V 경고등 고장 패턴 탐색 [(설명)](http://dmqm.korea.ac.kr/research/projects/44)  
- : EGR 밸브의 이상을 예측하는 attention기반의 모델을 구축하고  attention score를 군집분석하여 이상패턴 유형화
 + AI활용 로드시뮬레이터 내구모니터링 중 내구문제 자동검출 [(설명)](http://dmqm.korea.ac.kr/research/projects/45)  
- :  고장유형을 분류하는 attention 기반의 모델을 구축하고 원인이 되는 센서와 시간을 검출
 
-#### 2. 시계열 데이터 패턴분석 R&D [(참고 깃허브)](https://github.com/zhoushengisnoob/DeepClustering)
-: 시계열 데이터를 분석하는 딥러닝 기반의 알고리즘에 대하여 연구 및 개발하였습니다.
+#### 2. 딥러닝 기반 시계열 데이터 패턴분석 R&D [(참고 깃허브)](https://github.com/zhoushengisnoob/DeepClustering)
   
-#### 3. Mcrosoft Azure 서비스
-: 클라우드 서비스를 경험해보았습니다. 주로 Azure Macine Learning, VM, Azure storage를 실무적으로 다루었고, Databricks를 경험하였습니다.
+#### 3. Mcrosoft Azure Machine Learning 교육 보조
 
-#### 4. 프로젝트형 머신러닝 기반 빅데이터 전문가 양성과정 교육 (한양대)
-: 보조강사를 수행하였습니다.
+#### 4. 프로젝트형 머신러닝 기반 빅데이터 전문가 양성과정 교육 보조 (한양대)
 
 ## 학력
 + 인제대학교 통계학과 학사; 평균학점 4.29/4.5; 2012.03~2018.02
