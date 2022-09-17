@@ -19,14 +19,13 @@
 ### (2020.09~) 에이치이엠파마; PMAS연구소; BI센터; AI파트; 파트장/선임연구원
 : PMAS는 
 
-#### 암웨이 마이랩 - 솔루션 배정 알고리즘 개발 [(설명)](./HEMPharma/1_solution_assign_algorithm.md)
-: 암웨이 myLAB 서비스 고객의 대사체 및 마이크로바이옴 정보를 활용하여 적합한 솔루션을 추천하는 알고리즘입니다. 실험 간소화, 비용 절감 등을 위해 개발하였습니다.
+#### 1. 암웨이 마이랩 - 솔루션 배정 알고리즘 개발 [(설명)](./HEMPharma/1_solution_assign_algorithm.md)
 
-#### AutoHEML 개발 [(설명)](./HEMPharma/2_AutoHEML.md)
-AutoHEML = AutoML + HEM
-: 오토헴엘은 변수변환, 변수선택, 샘플링, 모델를 다양한 조건을 탐색하여 최적의 모델을 자동으로 찾아주는 알고리즘입니다. 
+#### 2. AutoHEML 개발 [(설명)](./HEMPharma/2_AutoHEML.md)
 
-#### PMAS 데이터 통계 분석법 개발
+#### 3. Scoring
+
+#### 4. Batch correction
 
 * * *
 
