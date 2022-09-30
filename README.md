@@ -17,15 +17,16 @@
 ## 경력
 
 ### (2020.09~) 에이치이엠파마; PMAS연구소; BI센터; AI파트; 파트장/선임연구원
-: PMAS는 
+: PMAS는 ~. PMAS에 AI를 접목~
 
 #### 1. 암웨이 마이랩 - 솔루션 배정 알고리즘 개발 [(설명)](./HEMPharma/1_solution_assign_algorithm.md)
 
-#### 2. AutoHEML 개발 [(설명)](./HEMPharma/2_AutoHEML.md)
+#### 2. 자동화된 기계학습 알고리즘 (AutoHEML) 개발 [(설명)](./HEMPharma/2_AutoHEML.md)
 
-#### 3. Scoring
+#### 3. Batch effect correction [(설명)](./HEMPharma/3_Batch_correction.md)
 
-#### 4. Batch correction
+#### 4. 미정
+
 
 * * *
 
@@ -43,6 +44,7 @@
 #### 3. Mcrosoft Azure Machine Learning 교육 보조
 
 #### 4. 프로젝트형 머신러닝 기반 빅데이터 전문가 양성과정 교육 보조 (한양대)
+
 
 ## 학력
 + 인제대학교 통계학과 학사; 평균학점 4.29/4.5; 2012.03~2018.02
