@@ -23,7 +23,7 @@
 
 ### 프로젝트
 
-#### 1. 암웨이 마이랩 - 솔루션 배정 알고리즘 개발 [(설명)](./HEMPharma/m.md)
+#### 1. 암웨이 마이랩 - 솔루션 배정 알고리즘 개발 [(설명)](./HEMPharma/1_solution_assign_algorithm.md)
 
 #### 2. 자동화된 기계학습 알고리즘 (AutoHEML) 개발 [(설명)](./HEMPharma/2_AutoHEML.md)
 
